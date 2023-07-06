@@ -44,6 +44,3 @@ make exec
 
 make build allows you to access secrets info inside of python container as
 environment variable.
-# twitter-bot
-# twitter-bot
-# twitter-bot
